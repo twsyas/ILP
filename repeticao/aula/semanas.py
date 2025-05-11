@@ -9,4 +9,4 @@ while continua != 0:
 		print("Quente!")
 	else: 
 		print("Frio!")
-	
+
